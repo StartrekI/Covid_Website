@@ -22,31 +22,9 @@
 - **Health Monitoring:** Regular results from the web form help users assess their risk and decide when to consult a doctor based on pre-predictions.
 - **Early Intervention:** Identifying potential COVID-19 cases early allows individuals to seek medical advice sooner, potentially leading to faster recovery and better management of the illness.
 
-## Skills Used
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
-</div>
-
-###
-
 ## Screenshots
 
-![img](https://i.postimg.cc/ZKVZ0031/Untitled-design.png)
+[![download-1.png](https://i.postimg.cc/6QHyFJKL/download-1.png)](https://postimg.cc/PLwX87PP)
 ![img](https://i.postimg.cc/x16KsGmt/Untitled-design-1.png)
 ![img](https://i.postimg.cc/QtT1xRyy/Untitled-design-2.png)
 ![img](https://i.postimg.cc/wT34cBnK/Untitled-design-3.png)
