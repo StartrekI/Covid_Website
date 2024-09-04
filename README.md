@@ -1,5 +1,5 @@
 # COVID-19 Prediction Using Symptoms
-
+**Site is live**  [CovidWebsite](https://covidiitgapp.herokuapp.com/)
 ### Welcome to the COVID-19 Prediction Using Symptoms! This web application predicts the likelihood of COVID-19 based on user-reported symptoms using advanced machine learning techniques.
 
 ## Features
