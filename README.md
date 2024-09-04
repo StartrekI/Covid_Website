@@ -27,10 +27,3 @@
 [![download-1.png](https://i.postimg.cc/6QHyFJKL/download-1.png)](https://postimg.cc/PLwX87PP)
 [![download-2.png](https://i.postimg.cc/8zZvgrB6/download-2.png)](https://postimg.cc/mPFkQknL)
 
-## Follow the steps below to set up and install the project dependencies.
-
-### Client
-
-1. Navigate to the client directory:
-   ```bash
-   cd client
